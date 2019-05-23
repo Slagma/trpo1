@@ -22,7 +22,7 @@ namespace TRPOKursovaya
             InitializeComponent();
             myConnection.Open();
         }
-
+//True
         private void Button2_Click(object sender, EventArgs e)
         {
             this.Close();

@@ -39,7 +39,7 @@ namespace TRPOKursovaya
             {
                 MessageBox.Show(es.Message);
             }                          
-        } //Insert Film
+        } //Insert Films
 
         private void Button2_Click(object sender, EventArgs e)
         {

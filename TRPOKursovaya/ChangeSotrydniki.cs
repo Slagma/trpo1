@@ -20,7 +20,7 @@ namespace TRPOKursovaya
         {
             InitializeComponent();
             myConnection.Open();
-
+            //Checc
             comboBox2.Items.Clear();
             string query = "SELECT ID FROM Users";
             OleDbCommand command = new OleDbCommand(query, myConnection);

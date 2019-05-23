@@ -28,6 +28,7 @@ namespace TRPOKursovaya
             {
                 comboBox1.Items.Add(reader[0]);
             }
+            //Check
         }
 
         private void Button3_Click(object sender, EventArgs e)
