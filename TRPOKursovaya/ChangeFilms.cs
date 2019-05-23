@@ -21,7 +21,7 @@ namespace TRPOKursovaya
         {
             InitializeComponent();
             myConnection.Open();
-            string query = "SELECT NameFilm FROM Films";
+            string query = "SELECT NameFilm FROM Films WHERE ID_Films = 5";
             OleDbCommand command = new OleDbCommand(query, myConnection);
             OleDbDataReader reader = command.ExecuteReader();
             while (reader.Read())
