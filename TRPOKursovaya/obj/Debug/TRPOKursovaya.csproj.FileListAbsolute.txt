@@ -1,0 +1,214 @@
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Buhgalter.resources
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Autorization.resources
+A:\source\repos\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Seller.resources
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Buhgalter.resources
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Autorization.resources
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Seller.resources
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+C:\Users\Студент\Desktop\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Seller.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Seller.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\TRPOKursovayaTex — копия\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Admin.resources
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\Вильчевский\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Admin.resources
+C:\Users\Студент\Desktop\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.Cache
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Admin.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovayaTex 28.03.19\TRPOKursovayaTex 27.03.19\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Admin.resources
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+I:\флешка\ТРПО\TRPOKursovayaTex 29.03.19\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuSeller.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Reservation.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sotrydniki.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Ticket.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuAdmin.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sessions.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\TRPOKursovayaTex 29.03.19 — копия\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuSeller.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sotrydniki.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Ticket.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuAdmin.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sessions.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeSession.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertSession.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeSession.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Hall.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertSession.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuSeller.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sotrydniki.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Ticket.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuAdmin.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sessions.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeFilms.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Hall.resources
+C:\Users\maks1\Desktop\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertFilms.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojAssemblyReference.cache
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeFilms.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeSession.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeSotrydniki.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Hall.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertFilms.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertSession.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertSotrydnika.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuSeller.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Mesta.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sotrydniki.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Ticket.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuAdmin.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sessions.resources
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.cache
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.CoreCompileInputs.cache
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+F:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe.config
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.exe
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.pdb
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.exe
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\bin\Debug\TRPOKursovaya.pdb
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csprojResolveAssemblyReference.cache
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeFilms.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeSession.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeSotrydniki.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Films.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Hall.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertFilms.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertSession.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertSotrydnika.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuSeller.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Cinema.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Properties.Resources.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sotrydniki.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Ticket.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.MenuAdmin.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Sessions.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.csproj.GenerateResource.Cache
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeFilms.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.ChangeSotrydniki.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertFilms.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.InsertSotrydnika.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.PrintTicket.resources
+I:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Statistic.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.PrintTicket.resources
+E:\TRPOKursovayaTex\TRPOKursovaya\TRPOKursovaya\obj\Debug\TRPOKursovaya.Statistic.resources
